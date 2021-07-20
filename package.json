@@ -13,7 +13,7 @@
     "buffer": "^5.6.0",
     "native-base": "^2.13.12",
     "react": "16.11.0",
-    "react-native": "0.62.2",
+    "react-native": "0.62.3",
     "react-native-easy-grid": "^0.2.2",
     "react-native-fs": "^2.16.6",
     "react-native-image-picker": "^2.3.1",
